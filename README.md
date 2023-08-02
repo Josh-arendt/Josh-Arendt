@@ -8,7 +8,7 @@
   - [Generating Practice Users For Active Directory](https://github.com/Josh-arendt/Generating_Practice_Users_For_AD)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Josh-arendt/osTicket_Prereqs_Installation)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
+  - [osTicket: Post-Installation Configuration](https://github.com/Josh-arendt/osTicket_Post_Installation_Configuration)
   
 
 
