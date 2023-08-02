@@ -7,7 +7,7 @@
   - [Active Directory - Creating Users, Admins and Clients](https://github.com/Josh-arendt/AD_Creating_Users_Admins_Clients)
   - [Generating Practice Users For Active Directory](https://github.com/Josh-arendt/Generating_Practice_Users_For_AD/blob/main/README.md)
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/Josh-arendt/osticket-prereqs)
+  - [osTicket: Prerequisites and Installation](https://github.com/Josh-arendt/osTicket_Prereqs_Installation)
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 
